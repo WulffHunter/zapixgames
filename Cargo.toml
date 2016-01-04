@@ -1,0 +1,4 @@
+[package]
+name = "zapix_engine"
+version = "0.0.1"
+authors = ["Marko Mijalkovic <marko.mijalkovic97@gmail.com>"]
