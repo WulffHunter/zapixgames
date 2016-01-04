@@ -4,8 +4,8 @@ In-development repo with game components
 ## Building
 To build the engine, you'll first need to install [rust].
 
-Linux/OSX users: `curl -sSf https://static.rust-lang.org/rustup.sh | sh`
-Windows users can install the binary from [rust]'s homepage.
+* Linux/OSX users: `curl -sSf https://static.rust-lang.org/rustup.sh | sh`
+* Windows users can install the binary from [rust]'s homepage.
 
 Now you just need to clone the repo and run the engine:
 
