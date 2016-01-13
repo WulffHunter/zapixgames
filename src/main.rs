@@ -1,6 +1,6 @@
-#[macro_use]
-extern crate glium;
 extern crate hlua;
+#[macro_use] extern crate ecs;
+#[macro_use] extern crate glium;
 
 use glium::{DisplayBuild, Surface, VertexBuffer, Program};
 use glium::glutin::WindowBuilder;
